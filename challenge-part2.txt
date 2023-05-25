@@ -1,0 +1,15 @@
+Challenge, part 2
+
+Introduce formulas (formulas start with =...)
+
+== Test List ==
+
+constant formulas should be supported (ex: =10)
+multiplication should be supported (integer)
+addition should be supported (integer)
+formulas should support mixed operations
+
+Bonus:
+division should be supported (integer)
+decimal values should be supported
+

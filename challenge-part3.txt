@@ -1,0 +1,11 @@
+Challenge, part 3
+
+Operator precedence, yeah!
+
+== Test List ==
+
+(Should be a big challenge by itself)
+
+respect operator precedence rules
+
+You might want to have a look at how to parse math expressions (I have a simple method available)

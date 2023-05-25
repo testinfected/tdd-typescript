@@ -1,0 +1,13 @@
+Challenge, part 1
+
+A simple spreadsheet
+
+== Test List ==
+
+cells should be empty by default
+cells are stored
+many cells exist
+cell literal values should be preserved for editing
+numeric content is recognized (blanks ignored)
+
+

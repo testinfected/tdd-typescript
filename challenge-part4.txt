@@ -1,0 +1,13 @@
+Challenge, part 4
+
+Parens, other operations and error handling
+
+== Test List ==
+
+Formulas should accept parens
+Parens should change operator precedence rules
+Formulas should support subtraction
+Formulas should support exponentiation
+Malformed formula should generate an error (#Error)
+Missing (opening/closing) parens should also generate an error
+Arithmetic errors (such as division by 0) should also generate error
