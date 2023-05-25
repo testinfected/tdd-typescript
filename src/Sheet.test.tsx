@@ -57,8 +57,8 @@ import Sheet from "./Sheet";
 //     sheet.put("A1", "text"); // une chaine
 //     expect(sheet.get("A1")).toEqual("text")
 //
-//     sheet.put("A2", "14"); // un nombre
-//     expect(sheet.get("A2")).toEqual("  14   ")
+//     sheet.put("A2", "  14  "); // un nombre
+//     expect(sheet.get("A2")).toEqual("14")
 //
 //     sheet.put("A3", "  27  "); // toujours un nombre
 //     expect(sheet.get("A3")).toEqual("27")
